@@ -4,6 +4,12 @@ body {
   line-height: 1;
 }
 
+.clock {
+  color: #070404;
+  font-size: 40px;
+  font-family: 'Open Sans', sans-serif;
+}
+
 textarea {
   background: transparent;
   border: none;
